@@ -5,10 +5,10 @@
 
 ## My Goal
 
-is to get conformable using Flutter packages and building repeated widgets.
+is to get confortable using Flutter packages and building repeated widgets.
 
 
-## What you will create
+## What I created
 
 I am going to make a music app that plays Xylophone sounds.
 
